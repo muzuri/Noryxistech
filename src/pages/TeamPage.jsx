@@ -104,7 +104,7 @@ export default function TeamPage() {
         </Reveal>
       </Section>
 
-      <Section>
+      {/* <Section>
         <Reveal className="mb-6">
           <h2 className="text-2xl font-bold">{p.boardTitle}</h2>
         </Reveal>
@@ -115,7 +115,7 @@ export default function TeamPage() {
             </Reveal>
           ))}
         </div>
-      </Section>
+      </Section> */}
     </>
   );
 }

@@ -3,6 +3,8 @@ import { useTheme } from "../context/ThemeContext.jsx";
 import { useLang } from "../context/LanguageContext.jsx";
 import Logo from "./Logo.jsx";
 
+const SHOW_IMPRESSUM = false;
+
 export default function Footer({ setPage }) {
   const { theme } = useTheme();
   const { t } = useLang();
@@ -39,9 +41,11 @@ export default function Footer({ setPage }) {
         <div className={`pt-6 border-t ${theme.border} flex flex-wrap items-center justify-between gap-3 font-mono text-xs ${theme.muted}`}>
           <div className="flex flex-wrap items-center gap-4">
             <span>{t.footer.copyright}</span>
-            <button onClick={() => go("impressum")} className="underline decoration-dotted underline-offset-4 hover:text-cyan-500">
-              {t.nav.impressum}
-            </button>
+            {SHOW_IMPRESSUM && (
+              <button onClick={() => go("impressum")} className="underline decoration-dotted underline-offset-4 hover:text-cyan-500">
+                {t.nav.impressum}
+              </button>
+            )}
           </div>
           <span>{t.footer.tagline2}</span>
         </div>

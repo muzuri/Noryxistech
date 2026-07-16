@@ -137,9 +137,9 @@ export const TRANSLATIONS = {
       lead: "We work with startups, businesses, and governments around the world. Reach out and we'll get back to you within one business day.",
       form: {
         name: "Name",
-        namePlaceholder: "Jordan Lee",
+        namePlaceholder: "Enter your name",
         email: "Work email",
-        emailPlaceholder: "jordan@company.com",
+        emailPlaceholder: "Enter your work email",
         serviceLabel: "What do you need?",
         serviceOptions: ["Custom Software Development", "Business Process Automation", "Digital Transformation", "Government Digital Solutions", "Customer & Citizen Portals", "Mobile & Web Applications", "Secure Payment Solutions", "Not sure yet"],
         messageLabel: "Project details",
@@ -150,7 +150,7 @@ export const TRANSLATIONS = {
       sentBody: (name, email) => `Thanks, ${name} — we'll reply to ${email} within one business day.`,
       otherWaysTitle: "Other ways to reach us",
       info: [
-        { k: "Email", v: "hello@noryxistech.com" },
+        { k: "Email", v: "info@noryxistech.de" },
         { k: "Office", v: "Wilhelm-Leuschner-Straße 3, 26725 Emden, Germany" },
         { k: "Reach", v: "Clients served worldwide" },
       ],
@@ -335,9 +335,9 @@ export const TRANSLATIONS = {
       lead: "Nous travaillons avec des startups, des entreprises et des administrations partout dans le monde. Contactez-nous, nous vous répondrons sous un jour ouvré.",
       form: {
         name: "Nom",
-        namePlaceholder: "Jordan Lee",
+        namePlaceholder: "Entrez votre nom",
         email: "E-mail professionnel",
-        emailPlaceholder: "jordan@entreprise.com",
+        emailPlaceholder: "Entrez votre e-mail professionnel",
         serviceLabel: "De quoi avez-vous besoin ?",
         serviceOptions: ["Développement de logiciel sur mesure", "Automatisation des processus métier", "Transformation numérique", "Solutions numériques pour administrations", "Portails clients et citoyens", "Applications mobiles et web", "Solutions de paiement sécurisées", "Je ne sais pas encore"],
         messageLabel: "Détails du projet",
@@ -348,7 +348,7 @@ export const TRANSLATIONS = {
       sentBody: (name, email) => `Merci, ${name} — nous répondrons à ${email} sous un jour ouvré.`,
       otherWaysTitle: "Autres façons de nous contacter",
       info: [
-        { k: "E-mail", v: "hello@noryxistech.com" },
+        { k: "Email", v: "info@noryxistech.de"},
         { k: "Bureau", v: "Wilhelm-Leuschner-Straße 3, 26725 Emden, Allemagne" },
         { k: "Présence", v: "Clients dans le monde entier" },
       ],
@@ -533,9 +533,9 @@ export const TRANSLATIONS = {
       lead: "Wir arbeiten weltweit mit Startups, Unternehmen und Behörden zusammen. Kontaktieren Sie uns — wir melden uns innerhalb eines Werktages.",
       form: {
         name: "Name",
-        namePlaceholder: "Jordan Lee",
+        namePlaceholder: "Geben Sie Ihren Namen ein",
         email: "Geschäftliche E-Mail",
-        emailPlaceholder: "jordan@unternehmen.com",
+        emailPlaceholder: "Geben Sie Ihre geschäftliche E-Mail-Adresse ein",
         serviceLabel: "Was benötigen Sie?",
         serviceOptions: ["Individuelle Softwareentwicklung", "Automatisierung von Geschäftsprozessen", "Digitale Transformation", "Digitale Lösungen für Behörden", "Kunden- und Bürgerportale", "Mobile- & Web-Anwendungen", "Sichere Zahlungslösungen", "Noch unklar"],
         messageLabel: "Projektdetails",
@@ -546,7 +546,7 @@ export const TRANSLATIONS = {
       sentBody: (name, email) => `Danke, ${name} — wir antworten an ${email} innerhalb eines Werktages.`,
       otherWaysTitle: "Weitere Kontaktmöglichkeiten",
       info: [
-        { k: "E-Mail", v: "hello@noryxistech.com" },
+        { k: "Email", v: "info@noryxistech.de" },
         { k: "Büro", v: "Wilhelm-Leuschner-Straße 3, 26725 Emden, Deutschland" },
         { k: "Reichweite", v: "Kunden weltweit" },
       ],
@@ -627,7 +627,7 @@ export const IMPRESSUM_DE = {
     },
     {
       heading: "Kontakt",
-      lines: ["Telefon: [+49 4921 123456]", "E-Mail: hello@noryxistech.com"],
+      lines: ["Telefon: [+49 15210563801]", "E-Mail: info@noryxistech.com"],
     },
     {
       heading: "Registereintrag",
