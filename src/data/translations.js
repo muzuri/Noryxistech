@@ -163,18 +163,18 @@ export const TRANSLATIONS = {
       lead: "Successful digital transformation takes more than code — it takes business leadership, industry knowledge, and technical excellence. Our leadership team brings together entrepreneurial experience, strategic vision, and software engineering expertise to build sustainable digital solutions for businesses, startups, and public institutions worldwide.",
       leaders: [
         {
-          name: "Jean de Dieu Birori",
+          name: "Aimable Muzuri",
           role: "Co-Founder & Managing Director",
-          linkedin: "https://www.linkedin.com/in/birori-jean-de-dieu-0684b8bb/",
-          bio: "Jean de Dieu is an entrepreneur, investor, and business leader with experience across healthcare, technology, hospitality, and financial services, particularly insurance. As Co-Founder and Managing Director, he leads business strategy, partnerships, and client relationships, bringing strong operational expertise and a practical approach to delivering innovative digital solutions through Noryxis Tech.",
-          tags: ["Business Strategy", "Healthcare Leadership", "Partnerships & Growth", "Investment & Advisory"],
+          linkedin: "https://www.linkedin.com/in/aimable-muzuri/",
+          bio: "Aimable is a software engineer and technology leader specializing in secure, scalable digital platforms for businesses, startups, and public institutions. As Co-Founder and Managing Director, he helps shape Noryxis Tech's strategic direction, technology vision, and engineering standards, combining technical excellence with business understanding to deliver solutions built for long-term growth.",
+          tags: ["Business Strategy", "Leadership", "Business", "Digital Transformation", "Enterprise Applications"],
         },
         {
-          name: "Aimable Muzuri",
-          role: "Co-Founder & Chief Technology Officer",
-          linkedin: "https://www.linkedin.com/in/aimable-muzuri/",
-          bio: "Aimable is a software engineer and technology leader specializing in secure, scalable digital platforms for businesses, startups, and public institutions. As CTO, he shapes Noryxis Tech's technology vision and engineering standards, combining technical excellence with business understanding to build solutions designed for long-term growth.",
-          tags: ["Software Architecture", "Digital Transformation", "Enterprise Applications", "Cloud Platforms"],
+          name: "Jean de Dieu Birori",
+          role: "Co-Founder & Director of African Markets",
+          linkedin: "https://www.linkedin.com/in/birori-jean-de-dieu-0684b8bb/",
+          bio: "Jean de Dieu is an entrepreneur, investor, and business leader with experience across healthcare, technology, hospitality, and financial services, particularly insurance. As Co-Founder and Director of African Markets, he leads business strategy, partnerships, and client relationships, bringing strong operational expertise and a practical approach to delivering innovative digital solutions through Noryxis Tech.",
+          tags: ["Business Strategy", "Healthcare Leadership", "Partnerships & Growth", "Investment & Advisory"],
         },
       ],
       commitmentTitle: "Our Leadership Commitment",
@@ -360,20 +360,21 @@ export const TRANSLATIONS = {
       title: "Équipe de direction",
       lead: "Une transformation numérique réussie exige plus que du code — elle exige du leadership, une connaissance du secteur et une excellence technique. Notre équipe de direction réunit expérience entrepreneuriale, vision stratégique et expertise en ingénierie logicielle pour construire des solutions numériques durables pour les entreprises, les startups et les institutions publiques du monde entier.",
       leaders: [
-        {
-          name: "Jean de Dieu Birori",
-          role: "Co-fondateur & Directeur général",
-          linkedin: "https://www.linkedin.com/in/birori-jean-de-dieu-0684b8bb/",
-          bio: "Jean de Dieu est un entrepreneur, investisseur et dirigeant d’entreprise, avec une expérience dans les secteurs de la santé, de la technologie, de l’hôtellerie et des services financiers, en particulier l’assurance. En tant que cofondateur et directeur général, il pilote la stratégie d’entreprise, les partenariats et les relations clients, en apportant une solide expertise opérationnelle ainsi qu’une approche pragmatique pour proposer des solutions numériques innovantes chez Noryxis Tech.",
-          tags: ["Stratégie d'entreprise", "Leadership dans la santé", "Partenariats et croissance", "Investissement et conseil"],
-        },
-        {
+            {
           name: "Aimable Muzuri",
-          role: "Co-fondateur & Directeur de la technologie (CTO)",
+          role: "Co-fondateur & Directeur général",
           linkedin: "https://www.linkedin.com/in/aimable-muzuri/",
-          bio: "Aimable est ingénieur logiciel et dirigeant technologique, spécialisé dans la conception de plateformes numériques sécurisées et évolutives pour les entreprises, les startups et les institutions publiques. En tant que CTO, il définit la vision technologique de Noryxis Tech et les standards d'ingénierie, alliant excellence technique et compréhension des enjeux métier pour concevoir des solutions pensées pour durer.",
+          bio: "Aimable est ingénieur logiciel et dirigeant technologique, spécialisé dans la conception de plateformes numériques sécurisées et évolutives pour les entreprises, les startups et les institutions publiques. En tant que cofondateur et directeur général, il contribue à définir la direction stratégique de Noryxis Tech, sa vision technologique et ses standards d'ingénierie, en alliant excellence technique et compréhension des enjeux métier pour concevoir des solutions durables.",
           tags: ["Architecture logicielle", "Transformation numérique", "Applications d'entreprise", "Plateformes cloud"],
         },
+        {
+          name: "Jean de Dieu Birori",
+          role: "Co-fondateur & Directeur des marchés africains",
+          linkedin: "https://www.linkedin.com/in/birori-jean-de-dieu-0684b8bb/",
+          bio: "Jean de Dieu est un entrepreneur, investisseur et dirigeant d’entreprise, avec une expérience dans les secteurs de la santé, de la technologie, de l’hôtellerie et des services financiers, en particulier l’assurance. En tant que cofondateur et directeur des marchés africains, il pilote la stratégie d’entreprise, les partenariats et les relations clients, en apportant une solide expertise opérationnelle ainsi qu’une approche pragmatique pour proposer des solutions numériques innovantes chez Noryxis Tech.",
+          tags: ["Stratégie d'entreprise", "Leadership dans la santé", "Partenariats et croissance", "Investissement et conseil"],
+        }
+    
       ],
       commitmentTitle: "Notre engagement en matière de direction",
       commitmentBody: "Ensemble, Jean de Dieu Birori et Aimable Muzuri allient expertise commerciale et innovation technologique pour aider les organisations à construire leur avenir numérique. Noryxis Tech conçoit des solutions pensées pour créer une valeur durable pour les entreprises, les administrations et les communautés.",
@@ -558,20 +559,21 @@ export const TRANSLATIONS = {
       title: "Führungsteam",
       lead: "Erfolgreiche digitale Transformation braucht mehr als Code — sie braucht unternehmerische Führung, Branchenkenntnis und technische Exzellenz. Unser Führungsteam vereint unternehmerische Erfahrung, strategisches Denken und Software-Engineering-Expertise, um nachhaltige digitale Lösungen für Unternehmen, Startups und öffentliche Institutionen weltweit zu entwickeln.",
       leaders: [
-        {
-          name: "Jean de Dieu Birori",
-          role: "Co-Founder & Geschäftsführer (Managing Director)",
-          linkedin: "https://www.linkedin.com/in/birori-jean-de-dieu-0684b8bb/",
-          bio: "Jean de Dieu ist ein Unternehmer, Investor und Wirtschaftsführer mit Erfahrung in den Bereichen Gesundheitswesen, Technologie, Hotellerie und Finanzdienstleistungen, insbesondere im Versicherungswesen. Als Mitgründer und Geschäftsführer verantwortet er die Unternehmensstrategie, Partnerschaften und Kundenbeziehungen und bringt dabei starke operative Expertise sowie einen praxisnahen Ansatz in die Entwicklung innovativer digitaler Lösungen bei Noryxis Tech ein.",
-          tags: ["Unternehmensstrategie", "Führung im Gesundheitswesen", "Partnerschaften & Wachstum", "Investment & Beratung"],
-        },
-        {
+         {
           name: "Aimable Muzuri",
-          role: "Co-Founder & Chief Technology Officer (CTO)",
+          role: "Co-Founder & Geschäftsführer (Managing Director)",
           linkedin: "https://www.linkedin.com/in/aimable-muzuri/",
-          bio: "Aimable ist Softwareingenieur und Technologieführer mit Schwerpunkt auf sicheren, skalierbaren digitalen Plattformen für Unternehmen, Startups und öffentliche Institutionen. Als CTO gestaltet er die Technologievision und die Engineering-Standards von Noryxis Tech und verbindet technische Exzellenz mit unternehmerischem Verständnis für Lösungen, die auf langfristiges Wachstum ausgelegt sind.",
+          bio: "Aimable ist Softwareingenieur und Technologieführer mit Schwerpunkt auf sicheren, skalierbaren digitalen Plattformen für Unternehmen, Startups und öffentliche Institutionen. Als Mitgründer und Geschäftsführer prägt er die strategische Ausrichtung, die Technologievision und die Engineering-Standards von Noryxis Tech und verbindet technische Exzellenz mit unternehmerischem Verständnis für Lösungen, die auf langfristiges Wachstum ausgelegt sind.",
           tags: ["Softwarearchitektur", "Digitale Transformation", "Unternehmensanwendungen", "Cloud-Plattformen"],
         },
+        {
+          name: "Jean de Dieu Birori",
+          role: "Mitgründer & Direktor für afrikanische Märkte",
+          linkedin: "https://www.linkedin.com/in/birori-jean-de-dieu-0684b8bb/",
+          bio: "Jean de Dieu ist ein Unternehmer, Investor und Wirtschaftsführer mit Erfahrung in den Bereichen Gesundheitswesen, Technologie, Hotellerie und Finanzdienstleistungen, insbesondere im Versicherungswesen. Als Mitgründer und Direktor für afrikanische Märkte verantwortet er die Unternehmensstrategie, Partnerschaften und Kundenbeziehungen und bringt dabei starke operative Expertise sowie einen praxisnahen Ansatz in die Entwicklung innovativer digitaler Lösungen bei Noryxis Tech ein.",
+          tags: ["Unternehmensstrategie", "Führung im Gesundheitswesen", "Partnerschaften & Wachstum", "Investment & Beratung"],
+        },
+       
       ],
       commitmentTitle: "Unser Führungsversprechen",
       commitmentBody: "Gemeinsam vereinen Jean de Dieu Birori und Aimable Muzuri unternehmerische Expertise und technologische Innovation, um Organisationen beim Aufbau ihrer digitalen Zukunft zu unterstützen. Noryxis Tech liefert Lösungen, die nachhaltigen Wert für Unternehmen, Behörden und Gemeinschaften schaffen.",
