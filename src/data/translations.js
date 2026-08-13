@@ -171,7 +171,7 @@ export const TRANSLATIONS = {
         },
         {
           name: "Jean de Dieu Birori",
-          role: "Co-Founder & Director of African Markets",
+          role: "Director of African Markets",
           linkedin: "https://www.linkedin.com/in/birori-jean-de-dieu-0684b8bb/",
           bio: "Jean de Dieu is an entrepreneur, investor, and business leader with experience across healthcare, technology, hospitality, and financial services, particularly insurance. As Co-Founder and Director of African Markets, he leads business strategy, partnerships, and client relationships, bringing strong operational expertise and a practical approach to delivering innovative digital solutions through Noryxis Tech.",
           tags: ["Business Strategy", "Healthcare Leadership", "Partnerships & Growth", "Investment & Advisory"],
@@ -369,7 +369,7 @@ export const TRANSLATIONS = {
         },
         {
           name: "Jean de Dieu Birori",
-          role: "Co-fondateur & Directeur des marchés africains",
+          role: "Directeur des marchés africains",
           linkedin: "https://www.linkedin.com/in/birori-jean-de-dieu-0684b8bb/",
           bio: "Jean de Dieu est un entrepreneur, investisseur et dirigeant d’entreprise, avec une expérience dans les secteurs de la santé, de la technologie, de l’hôtellerie et des services financiers, en particulier l’assurance. En tant que cofondateur et directeur des marchés africains, il pilote la stratégie d’entreprise, les partenariats et les relations clients, en apportant une solide expertise opérationnelle ainsi qu’une approche pragmatique pour proposer des solutions numériques innovantes chez Noryxis Tech.",
           tags: ["Stratégie d'entreprise", "Leadership dans la santé", "Partenariats et croissance", "Investissement et conseil"],
@@ -568,7 +568,7 @@ export const TRANSLATIONS = {
         },
         {
           name: "Jean de Dieu Birori",
-          role: "Mitgründer & Direktor für afrikanische Märkte",
+          role: "Direktor für afrikanische Märkte",
           linkedin: "https://www.linkedin.com/in/birori-jean-de-dieu-0684b8bb/",
           bio: "Jean de Dieu ist ein Unternehmer, Investor und Wirtschaftsführer mit Erfahrung in den Bereichen Gesundheitswesen, Technologie, Hotellerie und Finanzdienstleistungen, insbesondere im Versicherungswesen. Als Mitgründer und Direktor für afrikanische Märkte verantwortet er die Unternehmensstrategie, Partnerschaften und Kundenbeziehungen und bringt dabei starke operative Expertise sowie einen praxisnahen Ansatz in die Entwicklung innovativer digitaler Lösungen bei Noryxis Tech ein.",
           tags: ["Unternehmensstrategie", "Führung im Gesundheitswesen", "Partnerschaften & Wachstum", "Investment & Beratung"],
