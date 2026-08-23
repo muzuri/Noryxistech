@@ -18,7 +18,7 @@ function Shell() {
   let PageComponent;
   if (page === "services") PageComponent = <ServicesPage setPage={setPage} />;
   else if (page === "why") PageComponent = <WhyUsPage setPage={setPage} />;
-  else if (page === "team") PageComponent = <TeamPage />;
+  // else if (page === "team") PageComponent = <TeamPage />;
   else if (page === "about") PageComponent = <AboutPage setPage={setPage} />;
   else if (page === "contact") PageComponent = <ContactPage />;
   else if (page === "impressum") PageComponent = <ImpressumPage />;
