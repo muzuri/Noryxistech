@@ -1,10 +1,13 @@
 // English is the source of truth / default language.
 // Rewritten from the updated Noryxis Tech brief in business-outcome language
+
+import ClientPage from "../pages/ClientPage";
+
 // rather than technical/engineering language.
 export const TRANSLATIONS = {
   en: {
     langLabel: "EN",
-    nav: { home: "Home", services: "Services", why: "Why Us", team: "Team", about: "About", contact: "Contact", impressum: "Legal Notice", startProject: "Start a project" },
+    nav: { home: "Home", services: "Services", why: "Why Us", client: "Clients", about: "About", contact: "Contact", impressum: "Legal Notice", startProject: "Start a project" },
 
     hero: {
       eyebrow: "// digital solutions for growth and impact",
@@ -156,6 +159,29 @@ export const TRANSLATIONS = {
       ],
       note: "Headquartered in Emden, Germany — working with clients internationally.",
     },
+    clientPage: {
+      eyebrow: "// healthcare clients",
+      title: "Serving healthcare organizations across Rwanda and the DRC",
+      lead: "We support more than 50 hospitals and health facilities in Rwanda and 2 in the Democratic Republic of the Congo with digital solutions designed to improve care delivery, operational efficiency, and long-term sustainability.",
+      stats: [
+        { value: "50+", label: "Hospitals & health facilities in Rwanda" },
+        { value: "2", label: "Facilities in the DRC" },
+        { value: "24/7", label: "Operational continuity" },
+        { value: "100%", label: "Focus on patient impact" },
+      ],
+      trustTitle: "What we help healthcare teams improve",
+      trustItems: [
+        "Patient and appointment management",
+        "Clinical reporting and data visibility",
+        "Procurement and stock oversight",
+        "Billing and administrative workflows",
+        "Digital service continuity for remote teams",
+        "Operational visibility for leadership",
+      ],
+      impactTitle: "Built for healthcare operations that cannot afford downtime",
+      impactBody: "From large hospitals to smaller health centers, we deliver dependable systems that support staff, improve service delivery, and strengthen trust in public and private healthcare services.",
+      cta: { eyebrow: "// let's talk", title: "Need a healthcare technology partner?", label: "Start a project" },
+    },
 
     teamPage: {
       eyebrow: "// leadership team",
@@ -202,7 +228,7 @@ export const TRANSLATIONS = {
 
   fr: {
     langLabel: "FR",
-    nav: { home: "Accueil", services: "Services", why: "Pourquoi nous", team: "Équipe", about: "À propos", contact: "Contact", impressum: "Mentions légales", startProject: "Démarrer un projet" },
+    nav: { home: "Accueil", services: "Services", why: "Pourquoi nous", client: "Clients", about: "À propos", contact: "Contact", impressum: "Mentions légales", startProject: "Démarrer un projet" },
 
     hero: {
       eyebrow: "// des solutions numériques pour la croissance et l'impact",
@@ -355,6 +381,30 @@ export const TRANSLATIONS = {
       note: "Basés à Emden, en Allemagne — nous travaillons avec des clients à l'international.",
     },
 
+    clientPage: {
+      eyebrow: "// clients santé",
+      title: "Nous accompagnons des organisations de santé au Rwanda et en RDC",
+      lead: "Nous soutenons plus de 50 hôpitaux et structures de santé au Rwanda, ainsi que 2 en République Démocratique du Congo, avec des solutions numériques conçues pour améliorer la qualité des soins, l'efficacité opérationnelle et la durabilité à long terme.",
+      stats: [
+        { value: "50+", label: "Hôpitaux et centres de santé au Rwanda" },
+        { value: "2", label: "Structures de santé en RDC" },
+        { value: "24/7", label: "Continuité opérationnelle" },
+        { value: "100%", label: "Focus sur l'impact patient" },
+      ],
+      trustTitle: "Ce que nous aidons à améliorer",
+      trustItems: [
+        "Gestion des patients et des rendez-vous",
+        "Reporting clinique et visibilité des données",
+        "Suivi des achats et des stocks",
+        "Facturation et workflows administratifs",
+        "Continuité des services numériques pour les équipes distantes",
+        "Visibilité opérationnelle pour la direction",
+      ],
+      impactTitle: "Conçu pour des opérations de santé qui ne peuvent pas se permettre l'arrêt",
+      impactBody: "Des grands hôpitaux aux centres de santé plus petits, nous livrons des systèmes fiables qui accompagnent les équipes, améliorent la qualité de service et renforcent la confiance dans les services de santé publics et privés.",
+      cta: { eyebrow: "// parlons-en", title: "Vous cherchez un partenaire technologique pour la santé ?", label: "Démarrer un projet" },
+    },
+
     teamPage: {
       eyebrow: "// équipe de direction",
       title: "Équipe de direction",
@@ -401,7 +451,7 @@ export const TRANSLATIONS = {
 
   de: {
     langLabel: "DE",
-    nav: { home: "Start", services: "Leistungen", why: "Warum wir", team: "Team", about: "Über uns", contact: "Kontakt", impressum: "Impressum", startProject: "Projekt starten" },
+    nav: { home: "Start", services: "Leistungen", why: "Warum wir", client: "Kunden", about: "Über uns", contact: "Kontakt", impressum: "Impressum", startProject: "Projekt starten" },
 
     hero: {
       eyebrow: "// digitale Lösungen für Wachstum und Wirkung",
@@ -552,6 +602,30 @@ export const TRANSLATIONS = {
         { k: "Reichweite", v: "Kunden weltweit" },
       ],
       note: "Mit Hauptsitz in Emden, Deutschland — international für Kunden im Einsatz.",
+    },
+
+    clientPage: {
+      eyebrow: "// gesundheitskunden",
+      title: "Wir unterstützen Gesundheitsorganisationen in Ruanda und der DRC",
+      lead: "Wir begleiten mehr als 50 Krankenhäuser und Gesundheitseinrichtungen in Ruanda sowie 2 in der Demokratischen Republik Kongo mit digitalen Lösungen, die die Versorgung, die operative Effizienz und die langfristige Nachhaltigkeit verbessern.",
+      stats: [
+        { value: "50+", label: "Krankenhäuser und Gesundheitseinrichtungen in Ruanda" },
+        { value: "2", label: "Einrichtungen in der DRC" },
+        { value: "24/7", label: "Operationale Kontinuität" },
+        { value: "100%", label: "Fokus auf Patientenwirkung" },
+      ],
+      trustTitle: "Worauf wir Gesundheitsteams helfen",
+      trustItems: [
+        "Patienten- und Terminmanagement",
+        "Klinisches Reporting und Datenübersicht",
+        "Beschaffungs- und Bestandskontrolle",
+        "Abrechnung und administrative Abläufe",
+        "Digitale Servicekontinuität für Remote-Teams",
+        "Operative Sichtbarkeit für die Leitung",
+      ],
+      impactTitle: "Entwickelt für Gesundheitsbetriebe, die Ausfallzeiten nicht erlauben",
+      impactBody: "Von großen Krankenhäusern bis zu kleineren Gesundheitszentren liefern wir verlässliche Systeme, die das Personal unterstützen, die Servicequalität verbessern und das Vertrauen in öffentliche und private Gesundheitsdienste stärken.",
+      cta: { eyebrow: "// sprechen wir", title: "Brauchen Sie einen Technologiepartner für das Gesundheitswesen?", label: "Projekt starten" },
     },
 
     teamPage: {

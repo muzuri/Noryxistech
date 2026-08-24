@@ -10,6 +10,7 @@ import TeamPage from "./pages/TeamPage.jsx";
 import AboutPage from "./pages/AboutPage.jsx";
 import ContactPage from "./pages/ContactPage.jsx";
 import ImpressumPage from "./pages/ImpressumPage.jsx";
+import ClientPage from "./pages/ClientPage.jsx";  
 
 function Shell() {
   const { theme } = useTheme();
@@ -19,6 +20,7 @@ function Shell() {
   if (page === "services") PageComponent = <ServicesPage setPage={setPage} />;
   else if (page === "why") PageComponent = <WhyUsPage setPage={setPage} />;
   // else if (page === "team") PageComponent = <TeamPage />;
+  else if (page === "client") PageComponent = <ClientPage />;
   else if (page === "about") PageComponent = <AboutPage setPage={setPage} />;
   else if (page === "contact") PageComponent = <ContactPage />;
   else if (page === "impressum") PageComponent = <ImpressumPage />;
