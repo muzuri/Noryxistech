@@ -21,7 +21,7 @@ export default function Header({ page, setPage }) {
     { id: "home", label: t.nav.home },
     { id: "services", label: t.nav.services },
     { id: "why", label: t.nav.why },
-    { id: "client", label: t.nav.client },
+    // { id: "client", label: t.nav.client },
     { id: "about", label: t.nav.about },
     { id: "contact", label: t.nav.contact },
   ];
